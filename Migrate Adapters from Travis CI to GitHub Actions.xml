@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T10:22:10.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="g2cni8ttSYkzI-fZXjAP" compressed="false" version="20.7.4" type="device">
+<mxfile host="app.diagrams.net" modified="2022-12-30T10:26:24.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="GTFZn4PRkJrMk6yQn4Yg" compressed="false" version="20.7.4" type="device">
   <diagram id="QRrovYoOm_Fnx1KUCyyg" name="Page-1">
-    <mxGraphModel dx="1318" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,12 @@
         </mxCell>
         <mxCell id="lmIyFtS_b4CiOIllKIPL-119" value="tag base branch to env dev/qa/uat/prod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="281.5" y="281" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jwyfrdktACqR2jYgp6V-114" value="SonarCloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jwyfrdktACqR2jYgp6V-115" value="Deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="724" y="225" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
